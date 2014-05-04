@@ -44,6 +44,6 @@ resolved third #1 at Object.<anonymous> (/home/nathan/code/promise-tap/trace.js:
   returns a fresh traceable promise, resolved to the passed one.
   literally `mix(promise.then())`.
 
-## mix(promise)
+### mix(promise)
 
   makes your promise a traceable one and returns it.
