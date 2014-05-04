@@ -1,0 +1,16 @@
+{
+  "name": "promise-tap",
+  "version": "0.0.0",
+  "description": "promise debugging utility",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/promise-tap.git"
+  },
+  "author": "Nathan Zadoks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan7/promise-tap/issues"
+  },
+  "homepage": "https://github.com/nathan7/promise-tap"
+}
