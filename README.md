@@ -4,7 +4,7 @@
 
 ## convenience
 
-  since this is mostly meant for debugging and quick hackery, `mix(Promise.prototype)` might come in handy for you.
+  since this is mostly meant for debugging and quick hackery, `require('promise-trace').mix(Promise.prototype)` might come in handy for you.
 
 ## API
 ## promise.tap(onFulfilled, onRejected)
