@@ -1,4 +1,4 @@
-# promise-trace
+# promise-tap
 
   a small utility for tracing promises
 
